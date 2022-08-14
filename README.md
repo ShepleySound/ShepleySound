@@ -1,11 +1,6 @@
 ![Banner Image](assets/shepley-banner.gif)
 
-### Thanks for visiting!
-![Twitter Follow](https://img.shields.io/twitter/follow/shepleysound?style=social)
-![Linkedin Page](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white?style=social
-)
-
-## Hi!
+## Hi, I'm Robert!
 I'm currently working on learning the fundamentals of full-stack development using the MERN Stack. I'm learning alongside some great students at Code Fellows, so feel free to check out our code. There will be plenty of it in the weeks to come!
 
 ## Interests
@@ -20,3 +15,7 @@ I love IoT, home automation, and pretty much anything tech related, and I can't 
 - 📫 How to reach me: Shoot me a message on LinkedIn or Twitter!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Writing about myself is _really_ hard! 
+### Thanks for visiting!
+<a href="https://linkedin.com/in/robert-shepley"><img src="./assets/icons8_linkedin.svg"></a>
+<a href="https://twitter.com/shepleysound"><img src="./assets/icons8_twitter.svg"></a>
+
