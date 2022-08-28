@@ -3,7 +3,7 @@
 ## Hi, I'm Robert!
 I'm currently working on learning the fundamentals of full-stack development using the MERN Stack. I'm learning alongside some great students at Code Fellows, so feel free to check out our code. There will be plenty of it in the weeks to come!
 
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=shepleysound)](https://github.com/anuraghazra/github-readme-stats)
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=shepleysound&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Interests
