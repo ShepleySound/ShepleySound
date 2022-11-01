@@ -12,4 +12,3 @@ I'm currently working on building my skills in Full-Stack development and lookin
 ### Thanks for visiting!
 <a href="https://linkedin.com/in/robert-shepley"><img src="./assets/icons8_linkedin.svg"></a>
 <a href="https://twitter.com/shepleysound"><img src="./assets/icons8_twitter.svg"></a>
-
